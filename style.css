@@ -1,0 +1,125 @@
+body {
+  font-family:'Roboto Slab', serif;
+  background-color: rgba(0,0,0,0.1);
+  text-align: center;
+}
+.header {
+
+  max-width: 800px;
+  min-width: 300px;
+  margin: 30px auto;
+  padding: 5px 15px;
+  border-radius: 5px;
+  box-shadow: 1px 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 17px;
+  font-weight: bold;
+
+  background-image: url("images/surf.jpg");
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+  border: 2px solid #086972;
+
+}
+
+p {
+  text-align: center;
+  font-size: 10px
+}
+
+#main-btn {
+  text-align: center;
+  color: #8005ad;
+  text-decoration: none
+}
+
+#main-btn:hover {
+  color: green;
+
+}
+
+.parachute {
+  font-size: 40px
+
+
+}
+.frase {
+
+
+}
+
+
+ul {
+  padding: 0px;
+}
+
+ul > li {
+  display: inline-block;
+  list-style: none;
+}
+
+h1 {
+  color:#dfe21d;
+
+}
+
+h2 {
+  color:#086972;
+}
+
+#img-rafa {
+  border-radius: 10px;
+}
+.box {
+  background-color: rgba(0,0,0,0.08);
+  max-width: 800px;
+  min-width: 300px;
+  margin: 30px auto;
+  padding: 5px 15px;
+
+  box-shadow: 1px 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 15px;
+  box-shadow: 1px 0 10px rgba(77,168,166,0.4);
+  border-radius: 15px;
+  border: 1px solid #086972;
+}
+
+.media {
+  font-size: 35px
+}
+.about-me {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(0,0,0,0.08);
+  max-width: 800px;
+  min-width: 300px;
+  margin: 30px auto;
+  padding: 5px 15px;
+  border-radius: 5px;
+  box-shadow: 1px 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 15px;
+
+}
+#patinando {
+  border-radius: 30px;
+}
+
+#foto-linkedin {
+  border-radius: 30px;
+}
+.foto {
+  border: 0px;
+  opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
